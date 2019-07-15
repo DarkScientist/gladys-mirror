@@ -89,7 +89,7 @@ Redémarrez ensuite le raspberry pi pour que **pm2** prenne le relais. Je vous l
 
 Vue depuis VNC :
 
-[vnc](https://github.com/DarkScientist/gladys-mirror/raw/master/img/vnc.png)
+![vnc](https://github.com/DarkScientist/gladys-mirror/raw/master/img/vnc.png)
 
 Voilà ! Le miroir est fini !! Il faut réaliser la partie "matérielle" maintenant, partie que je ne traiterai pas ici.
 
