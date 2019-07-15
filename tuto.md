@@ -87,7 +87,11 @@ Retournez dans le dossier du miroir **/home/pi/MagicMirror** et exécutez :
 
 Redémarrez ensuite le raspberry pi pour que **pm2** prenne le relais. Je vous laisse vous documenter pour savoir comment utiliser Magic Mirror.
 
-Voilà ! Le miroir est fini !!
+Vue depuis VNC :
+
+[vnc](https://github.com/DarkScientist/gladys-mirror/raw/master/img/vnc.png)
+
+Voilà ! Le miroir est fini !! Il faut réaliser la partie "matérielle" maintenant, partie que je ne traiterai pas ici.
 
 Je vous laisse !!
 Si vous avez des problèmes ou voulez la partie réalisation matérielle, contactez moi sur le forum ou sur discord (DarkScientist_#9449).
